@@ -1,0 +1,4 @@
+created_at,tweet_id,user,cleaned_text,sentiment,location,hashtags,language,retweet_count,like_count,source
+9/25/2024 12:30,123456789,user1,Conflict in northern region escalating.,negative,"Nairobi, Kenya",#conflict,en,10,20,Twitter iPhone
+9/25/2024 13:15,123456790,user2,Peace talks scheduled for next week.,positive,"Kampala, Uganda",#peace,en,5,10,Twitter Web App
+9/26/2024 8:00,123456791,user3,Community leaders calling for calm.,neutral,Dar es Salaam,#calm #community,sw,3,5,Twitter Android

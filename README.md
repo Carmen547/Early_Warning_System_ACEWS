@@ -9,7 +9,7 @@ The Africa Conflict Early Warning System (ACEWS) is an innovative application de
 
 ## Getting Started
 
-1. **Clone the repository** or download the ZIP file from GitHub.
+1. **Clone the repository** 
 2. **Navigate to the project folder**:
    ```bash
    cd ~/Downloads/Early_Warning_System_App
